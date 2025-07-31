@@ -3,7 +3,7 @@
     private static void Main(string[] args)
     {
         var numero1 = 2;
-        var numero2 = 3;
+        var numero2 = 7;
 
         var soma = numero1 + numero2;
 
